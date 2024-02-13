@@ -1,7 +1,5 @@
 import Header from "@/components/Header";
 
-import AccountContent from "./components/AccountContent";
-
 const Account = () => {
   return (
     <div 
@@ -21,7 +19,6 @@ const Account = () => {
           </h1>
         </div>
       </Header>
-      <AccountContent />
     </div>
   )
 }
